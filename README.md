@@ -17,7 +17,7 @@ Several questions were posed, such as:
 1. Research Questions (RQ): A total of eight questions with the objective of analyzing every aspect of the __`books_lighter.json`__ and __`authors_lighter.json`__ datasets.
 2. Command Line Question (CLQ): two questions with the objective of analyzing the __`series.json`__ dataset using only command line tools.
 3. AWS Question (AWSQ): One question with the objective of analyzing the __`list.json`__ dataset using AWS EC2 platform: by using it, we can run complex programs that deal with large datasets using a simpler device (e.g. laptop). The instance type we used for this Homework is r7i.large running ubuntu. One of the biggest features of this platform is that we can at times increase the size and the type of the instance with our requirements.
-4. Algorithmic Question (AQ):
+4. Algorithmic Question (AQ): We were asked to implement an algorithm of one problem, ask ChatGPT or any other LLM chatbot tool to check code's time complexity (the Big O notation) and ask ourselves if the algorithm proposed in the first point is the optimal one or not.
  
 The analysis was performed mainly on a Jupyter Notebook file. Here follows a list of the files inside the repository:
 1. __`main.ipynb`__:
@@ -27,4 +27,6 @@ The analysis was performed mainly on a Jupyter Notebook file. Here follows a lis
 3. __`commandline_LLM.sh`__:
    > This script, as __`commandline_original.sh`__ can be run in the command line to print the top 5 series by number of books, along with their titles and ids. It was written with the aid of a LLM.
 4. __`top_five_list.py`__:
-   > This script goes through the list.json file and finds the top five tags for the books. 
+   > This script goes through the list.json file and finds the top five tags for the books.
+
+If the notebook file doesn't show plots/gets some errors, you can access it from [this]() link.
