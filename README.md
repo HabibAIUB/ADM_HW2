@@ -5,17 +5,15 @@ This project was carried out by Group 16 of Algorithmic Methods for Data Mining,
 ### Datasets descripton
 Four datasets, which can be downloaded on [kaggle](https://www.kaggle.com/datasets/opalskies/large-books-metadata-dataset-50-mill-entries), were analyzed:
 1. __`books_lighter.json`__:
-   > Data related to book publications.
+   > Data related to book publications, with 7027431 records.
 2. __`authors_lighter.json`__:
-   > Data related to authors of books/publications.
+   > Data related to authors of books/publications, with 351767 records.
 3. __`list.json`__:
-   > Data related to a peculiar list named "The Worst Books of All Time".
+   > Data related to a peculiar list named "The Worst Books of All Time", with 81512 records.
 4. __`series.json`__:
-   > Data related to series of books.
-   
+   > Data related to series of books, with 226659 records.
 
-
-
+The analysis was performed mainly on a Jupyter Notebook file. Here follows a list of the files inside the repository:
 1. __`main.ipynb`__:
 > This notebook is the core file of our work. It provides both functions and code to answer Reaserch Questions (RQ), Command Line Question (CLQ), Amazon WebServices Question (AWSQ) and Algorithmic Question (AQ). There are also comments for each question written in MarkDown cells.
 2. __`commandline_original.sh`__:
