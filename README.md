@@ -1,7 +1,7 @@
 # ADM HW2 - Books and Authors datasets Analysis
 ## Group 16
 ### Introduction
-This project was carried out by Group 16 of Algorithmic Methods for Data Mining, consisting of Gabriele, Pasquale and Habib. The purpose of the project is to apply different data analysis algorithms that may help discover and interpret meaningful data patterns and eventually understand how readers and authors behave.
+This project was carried out by Group 16 of Algorithmic Methods for Data Mining, consisting of Gabriele (parisini.1964381@studenti.uniroma1.it), Pasquale (tommasino.1912107@studenti.uniroma1.it) and Habib (bashar.2102742@studenti.uniroma1.it). The purpose of the project is to apply different data analysis algorithms that may help discover and interpret meaningful data patterns and eventually understand how readers and authors behave.
 ### Datasets descripton
 Four datasets, which can be downloaded on [kaggle](https://www.kaggle.com/datasets/opalskies/large-books-metadata-dataset-50-mill-entries), were analyzed:
 1. __`books_lighter.json`__:
